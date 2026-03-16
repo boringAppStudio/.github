@@ -42,6 +42,6 @@ Publish everywhere &mdash; or share with one click.
 
 ---
 
-<sub>Built by <a href="https://github.com/AKhilRaghav0">@AKhilRaghav0</a> & brother</sub>
+<sub>Built by <a href="https://github.com/AKhilRaghav0">@AKhilRaghav0</a> & <a href="https://github.com/nikhil1raghav">@nikhil1raghav</a></sub>
 
 </div>
